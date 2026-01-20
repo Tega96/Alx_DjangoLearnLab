@@ -53,8 +53,9 @@ DATABASES = {
 // use `pip install mysqlclient` to install MySQL
 ```
 
-# Admin page
+# Django Admin Interface
 
+Configuring the Admin interfaceA
 `python manage.py createsuperuser` To create admin user account. (Provide a user name and password).
 Register model with the admin interface by adding them to the `admin.py` file in your app.
 n
